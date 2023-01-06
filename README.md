@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 - 💬 &nbsp;  Ask me anything, I am always happy to help.<br>
 - 📫 &nbsp;  How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kushagragoyalkkg@gmail.com)<br>
 
-<br>
-<hr>
+
 
 
 
