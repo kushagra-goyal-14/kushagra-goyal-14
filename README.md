@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"><b>Hi</b> , I'm <b>Kushagra Goyal </b><img src="./assets/giphy.webp" width="35"></h1>
+<h1 align="center"><b>Hi</b> , I'm <b>Kushagra Goyal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <h3 align="Justify"> 🙋‍♂️ Hi there! I am a full stack developer 💻 working with JavaScript and currently studying <strong>Computer Science 📚 </strong>. I am always eager to learn new technologies and <b>improve</b> my skillset 🤓. As a full stack developer, I have experience in both front-end and back-end development 🌐 and enjoy working on projects that involve both aspects. Let's create something great together! 🤝</h3>
@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 <hr>
 
 <div align="center">
-[![gif](./assets/pc-banging.gif)]
+
+  <a>
+    <img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
+  </a>
+
 &emsp;
 </div>
 </p>
@@ -40,10 +44,10 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](./assets/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564253230496e2d3041363643322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465.svg)](https://www.linkedin.com/in/kushagra-goyal-kk/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-goyal-kk/)
 &emsp;
-[![image](./assets/Gmail-D14836.svg)](mailto:kushagragoyalkkg@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagragoyalkkg@gmail.com)
 &emsp;
-[![Dev.to blog](./assets/dev.svg)](https://dev.to/kushagragoyal14)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kushagragoyal14)
 
 </div>
