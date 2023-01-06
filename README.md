@@ -29,14 +29,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<div align="center">
 
-  <a>
-    <img src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
-  </a>
-
-&emsp;
-</div>
 </p>
 
 
