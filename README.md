@@ -20,17 +20,21 @@ Here are some ideas to get you started:
 
 <h3 align="Justify"> 🙋‍♂️ Hi there! I am a full stack developer 💻 working with JavaScript and currently studying <strong>Computer Science 📚 </strong>. I am always eager to learn new technologies and <b>improve</b> my skillset 🤓. As a full stack developer, I have experience in both front-end and back-end development 🌐 and enjoy working on projects that involve both aspects. Let's create something great together! 🤝</h3>
 
+<br/>
+
 ### 🧐 More About Me:
-- 🔭 &nbsp;  I am currently working on JS Projects.<br>
-- 🌱 &nbsp;  Following MERN Stack.<br>
-- ✊ &nbsp;  Working on C++, C, Javascript, React, and Node-JS.<br>
+- 🔭 &nbsp;  I am currently working on **JS Projects**.<br>
+- 🌱 &nbsp;  Following **MERN Stack**.<br>
+- ✊ &nbsp;  Working on **C++**, **C**, **Javascript**, **React**, and **Node-JS**.<br>
+- 🔎 &nbsp;  Researching & studying the working of **Socket IO** <br>
 - 💬 &nbsp;  Ask me anything, I am always happy to help.<br>
+- 📫 &nbsp;  How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kushagragoyalkkg@gmail.com)<br>
 
 <br>
 <hr>
 
 
-</p>
+
 
 
 
