@@ -1,6 +1,6 @@
-### Hey there! 👋
+### Hey! 👋
 
-I’m **Kushagra**, a software engineer from India.
+I’m **Kushagra**, a software engineer.
 
 I mostly build **backend systems and developer tools**, and occasionally things that have nothing to do with software, like a custom DCC controller for a model locomotive 🚂.
 
