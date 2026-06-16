@@ -1,50 +1,38 @@
+### Hey there! 👋
 
-<!--
-**kushagra-goyal-14/kushagra-goyal-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Kushagra**, a software engineer from India.
 
-Here are some ideas to get you started:
+I mostly build **backend systems and developer tools**, and occasionally things that have nothing to do with software, like a custom DCC controller for a model locomotive 🚂.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What keeps me interested is understanding how things work underneath 🚀.
 
+---
 
-<h1 align="center"><b>Hi</b> , I'm Kushagra Goyal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+### What I work with 🛠️
 
+Most of my work is on the backend: APIs, payment flows, auth, and subscription systems. 
 
-<h3 align="Justify"> 🙋‍♂️ Hi there! I am a full stack developer 💻 working with JavaScript and currently studying <strong>Computer Science 📚 </strong>. I am always eager to learn new technologies and <b>improve</b> my skillset 🤓. As a full stack developer, I have experience in both front-end and back-end development 🌐 and enjoy working on projects that involve both aspects. Let's create something great together! 🤝</h3>
+**Backend & Systems**
+- Node.js, PHP, TypeScript
+- NestJS, Express
+- Stablecoin payments, blockchain-based verification
 
-<br/>
+**Web & Platforms**
+- WordPress (Core contributions, Themes, Plugins, Gutenberg/FSE, WP-CLI)
+- React
 
-### 🧐 More About Me:
-- 🔭 &nbsp;  I am currently working on **JS Projects**.<br>
-- 🌱 &nbsp;  Following **MERN Stack**.<br>
-- ✊ &nbsp;  Working on **C++**, **C**, **Javascript**, **React**, and **Node-JS**.<br>
-- 🔎 &nbsp;  Researching & studying the working of **Socket IO** <br>
-- 💬 &nbsp;  Ask me anything, I am always happy to help.<br>
-- 📫 &nbsp;  How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kushagragoyalkkg@gmail.com)<br>
+**Databases & Infra**
+- PostgreSQL, MySQL, MongoDB
+- Docker, Linux, Git
 
+---
 
-<hr>
+### A few things about me 🌿
 
+- I enjoy diving deep, whether that's into a TypeScript type, a distributed payment flow, or a hardware controller.
+- I contribute majorly to WordPress Core alongside building themes and plugins.
+- **Currently exploring:** TypeScript's advanced type system, AI, and WordPress Core.
 
+---
 
-
-
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-goyal-kk/)
-&emsp;
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagragoyalkkg@gmail.com)
-&emsp;
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kushagragoyal14)
-
-</div>
+If something here interests you, feel free to reach out or explore my repos 👀
