@@ -13,7 +13,7 @@ What keeps me interested is understanding how things work underneath 🚀.
 Most of my work is on the backend: APIs, payment flows, auth, and subscription systems. 
 
 **Backend & Systems**
-- Node.js, PHP, TypeScript
+- Node.js, PHP, TypeScript, C, C++
 - NestJS, Express
 - Stablecoin payments, blockchain-based verification
 
